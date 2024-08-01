@@ -40,11 +40,11 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing", {
     strings: [
-      "a graduate from the University of zambia with a bachelor's of information communication and technology with education",
+      "graduate from the University of zambia with a bachelor's of information communication and technology with education",
       "web Developer",
       "Software Developer",
       "networking Manager",
-      "Teacher",
+      "Teacher of Secondary Mathematics and ICT",
       "Database Manager"
     ],
     typeSpeed: 100,
@@ -57,7 +57,7 @@ $(document).ready(function () {
       "web Developer",
       "Software Developer",
       "networking Manager",
-      "Teacher",
+      "Teacher of secondary Mathematics and ICT",
       "Database Manager"
     ],
     typeSpeed: 100,
